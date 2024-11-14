@@ -1,0 +1,1 @@
+{"Q1": {"label": "How satisfied are you with this app?", "value": "Very Dissatisfied"}, "Q2": {"label": "We would love to hear your feedback and suggestions", "value": "I love your app"}}
